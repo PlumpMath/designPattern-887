@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="singleton"/>
 	<classpathentry kind="src" path="factory"/>
 	<classpathentry kind="src" path="template"/>
+	<classpathentry kind="src" path="builder"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
